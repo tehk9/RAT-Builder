@@ -1,6 +1,7 @@
 # Disclaimer: This is only for entertainment and educational purposes.  
 # I’m not responsible for what you do with it or any consequences.  
-# Made by Vexi :3
+# Made by tehk and his best friends!!!
+# i do not condone any illegal usage of this product.
 
 import os
 import time
